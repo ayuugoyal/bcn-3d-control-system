@@ -31,17 +31,6 @@ graph TD;
 ![BCN3D Moveo Control Interface](/bcn3d-moveo-control/public/ss2.png)
 ![BCN3D Moveo Control Interface](/bcn3d-moveo-control/public/ss.png)
 
-## Repository Structure
-
-```
-bcn/
-├── arduino/                  # Arduino firmware for servo control
-├── bcn-3d-control-system/    # Next.js frontend application
-└── moveo_ros2/               # ROS2 packages for the robot control
-    ├── moveo_bringup/        # Launch files and configuration
-    ├── moveo_control/        # Control nodes and algorithms
-    └── moveo_description/    # Robot description (URDF)
-```
 
 ## Prerequisites
 
